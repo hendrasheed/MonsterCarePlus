@@ -1,9 +1,15 @@
 # MonsterCarePlus
-Prototype of an Application made for a Human-Computer Interaction Class.
+In my Human-Computer Interaction Class, we were tasked with designing and 
+creating a prototype of a health application. My team created Monster Care+.
 
-Link to website created for the project: https://teamosasun.weebly.com/
+A video explanation of our idea and implementation can be found at: https://youtu.be/rgI9ywlhiAg
 
-Clicking on the link for "Milestone 3" will show screenshots of the design.
+Within this repository, a video walkthrough of the prototype is included, as well 
+as a file of our third milestone which contains screenshots of the application and 
+short descriptions of each feature.
 
-The other milestones show other steps taken to create the prototype, including
-stakeholder analysis, throwaway prototyping steps, and user testing.
+For more information on each step in our process, here is a link to the website we 
+created for the project: https://teamosasun.weebly.com/
+
+The milestones show steps taken to create the prototype, including stakeholder analysis, 
+throwaway prototyping steps, and user testing.
